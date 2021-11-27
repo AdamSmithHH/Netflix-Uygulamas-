@@ -1,1 +1,1 @@
-# Netflix-Uygulamas-
+# Netflix-Uygulaması
